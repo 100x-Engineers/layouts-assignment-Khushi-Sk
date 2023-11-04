@@ -21,4 +21,6 @@ Figma Design - https://www.figma.com/file/w7wN1934wsRWZAMhPU0IEX/100x-microblogg
 
 Designs will be reviewed for visual appeal, layout sensibility, and responsive design principles.
 
----
+## Live Website
+
+https://100x-engineers.github.io/layouts-assignment-Khushi-Sk/src/login/index.html
